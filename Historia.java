@@ -1,3 +1,4 @@
 public class Historia{
-	string titulo;
+	
+	string sinopse;
 }
